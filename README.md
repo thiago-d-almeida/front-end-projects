@@ -4,7 +4,7 @@ Este repositório contém protótipos funcionais desenvolvidos para demonstrar c
 
 ## Projetos Inclusos
 
-### 1. Landing Page Jurídica (Almeida Advogados)
+### 1. Landing Page Jurídica
 * **Foco:** Autoridade, confiança e conversão.
 * **Destaque:** Uso de tipografia serifada para autoridade e paleta de cores corporativa (Navy & Gold).
 * **Tecnologias:** HTML5, Tailwind CSS.
